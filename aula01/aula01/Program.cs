@@ -13,7 +13,7 @@ namespace aula01
             Console.WriteLine("digite o valor de B: ");
             B = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("digite o valor de C: ");
-            C = Convert.ToDouble(Console.ReadLine());
+            C = Convert.ToDouble(Console.ReadLine()); 
 
             double delta = FDelta(A, B, C);
 
