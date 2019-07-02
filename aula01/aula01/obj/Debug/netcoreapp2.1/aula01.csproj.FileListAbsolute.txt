@@ -1,0 +1,11 @@
+C:\Users\Nerds - 04\Source\Repos\aula01\aula01\bin\Debug\netcoreapp2.1\aula01.deps.json
+C:\Users\Nerds - 04\Source\Repos\aula01\aula01\bin\Debug\netcoreapp2.1\aula01.runtimeconfig.json
+C:\Users\Nerds - 04\Source\Repos\aula01\aula01\bin\Debug\netcoreapp2.1\aula01.runtimeconfig.dev.json
+C:\Users\Nerds - 04\Source\Repos\aula01\aula01\bin\Debug\netcoreapp2.1\aula01.dll
+C:\Users\Nerds - 04\Source\Repos\aula01\aula01\bin\Debug\netcoreapp2.1\aula01.pdb
+C:\Users\Nerds - 04\Source\Repos\aula01\aula01\obj\Debug\netcoreapp2.1\aula01.csprojAssemblyReference.cache
+C:\Users\Nerds - 04\Source\Repos\aula01\aula01\obj\Debug\netcoreapp2.1\aula01.csproj.CoreCompileInputs.cache
+C:\Users\Nerds - 04\Source\Repos\aula01\aula01\obj\Debug\netcoreapp2.1\aula01.AssemblyInfoInputs.cache
+C:\Users\Nerds - 04\Source\Repos\aula01\aula01\obj\Debug\netcoreapp2.1\aula01.AssemblyInfo.cs
+C:\Users\Nerds - 04\Source\Repos\aula01\aula01\obj\Debug\netcoreapp2.1\aula01.dll
+C:\Users\Nerds - 04\Source\Repos\aula01\aula01\obj\Debug\netcoreapp2.1\aula01.pdb
